@@ -25,12 +25,3 @@ class MyApp extends StatelessWidget {
       },
     );
   }
-}
-
-echo "# jaganas_routingACT" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jaganaserica976-cell/jaganas_routingACT.git
-git push -u origin main
